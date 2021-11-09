@@ -1,0 +1,12 @@
+.test{
+	float: right;
+	width: 300px;
+}
+.image{
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.clear{
+	clear: both;
+}
